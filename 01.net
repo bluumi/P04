@@ -1,0 +1,5 @@
+* P01 Inguss Pumpurs
+V1 2 0 15.8V
+R2 0 1 9
+R1 2 1 6
+.END
